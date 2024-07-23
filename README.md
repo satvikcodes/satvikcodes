@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @satvikcodes
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on web
-- 📫 My instagram id @satvikcodes
+404
 
 <!---
 satvikcodes/satvikcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
